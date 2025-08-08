@@ -1,0 +1,1 @@
+Memvisualisasikan perjalanan dan jejak energi dari satu email dari keyboard Anda hingga ke server di berbagai benua.

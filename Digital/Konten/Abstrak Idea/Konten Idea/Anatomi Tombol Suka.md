@@ -1,0 +1,1 @@
+**Anatomi Tombol 'Suka':** Membedah satu tombol "Suka" dari sisi teknis (jutaan klik per detik), psikologis (validasi sosial), dan bisnis (data engagement).

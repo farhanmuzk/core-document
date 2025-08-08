@@ -1,0 +1,330 @@
+{
+  "main": {
+    "id": "385174c94fc89f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "23dfaa92c1d115ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9926d2379c055a52",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e8d99bf1337b0d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn/Learn Math/Basic Math/Roadmap Belajar Aljabar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap Belajar Aljabar"
+            }
+          },
+          {
+            "id": "fe9f8456e76a8e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Konten/Tanpa judul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tanpa judul"
+            }
+          },
+          {
+            "id": "b1284e8f004ea451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Konten/Abstrak Idea/Konten Idea/Variasi konten harian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variasi konten harian"
+            }
+          },
+          {
+            "id": "325753276f2a1ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Konten/Abstrak Idea/Konten Idea/Belajar Berpikir Lewat Kode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Belajar Berpikir Lewat Kode"
+            }
+          },
+          {
+            "id": "29ae534c8d76a3a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Konten/Format Konten/Ruang Bedah Digital.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ruang Bedah Digital"
+            }
+          },
+          {
+            "id": "c86518adf8be7824",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "cc980b703f25de48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Historical Science/Scientist/Research on the effect hanging of the humans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Research on the effect hanging of the humans"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "300059efb3d39484",
+    "type": "split",
+    "children": [
+      {
+        "id": "49e520ee518cc22a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a8d5e39d8b30cfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cae6d006aee4d973",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Penelusuran"
+            }
+          },
+          {
+            "id": "0ce3f20167b26ce5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5110321044922
+  },
+  "right": {
+    "id": "f21e4d8b5240581c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a033fa614617867",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb638a260470dfb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlink"
+            }
+          },
+          {
+            "id": "971a359da5186e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Tautan Keluar"
+            }
+          },
+          {
+            "id": "01f378433ca1510b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e97cfa0f7d37ae3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PT. Next Transformtech Indonesia/Interview Answers.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Kerangka dari Interview Answers"
+            }
+          },
+          {
+            "id": "99260745ab575276",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "29ae534c8d76a3a4",
+  "lastOpenFiles": [
+    "Digital/Konten/Abstrak Idea/Project Idea/Project 03 ( Alat debugging dan pembelajaran yang kreatif ).md",
+    "Digital/Konten/Tanpa judul.md",
+    "Digital/Konten/Abstrak Idea/Konten Idea/Tanpa judul.md",
+    "2025-08-08.md",
+    "Konten/Format Konten/Ruang Bedah Digital.md",
+    "Konten/Format Konten/Sang Penjaga Pustaka - The Digital Guardians Project.md",
+    "Konten/Project Konten/Dotsfiles Project/Technical Project Documentation.md",
+    "Konten/Format Konten/DotsFiles - Format Konten Harian.md",
+    "Konten/Project Konten/Dotsfiles Project",
+    "Konten/Project Konten",
+    "Konten/Format Konten",
+    "Year Note 2025/Daily Note 2025/2025-08-07.md",
+    "Year Note 2025/Weekly Note",
+    "Year Note 2025/Assets Note/Template Note",
+    "Year Note 2025/Assets Note/Image Year Hope/Pasted image 20250105032908.png",
+    "Year Note 2025/Assets Note/Image Year Hope/Pasted image 20250105032745.png",
+    "Year Note 2025/Assets Note/Image Year Hope/Pasted image 20250105030946.png",
+    "Year Note 2025/Assets Note/Image Year Hope/Pasted image 20250105032843.png",
+    "Year Note 2025/Month Note 2025/Januari/Vision Januari.canvas",
+    "Year Note 2025/Assets Note/Image Year Hope",
+    "2025-08-07.md",
+    "Year Note 2025/Assets Note",
+    "Year Note 2025/Daily Note 2025",
+    "Year Note 2025/Month Note 2025/Januari/2025-01-03 - Memulai Dari Awal Dengan Tidak Produktif.md",
+    "Year Note 2025/Month Note 2025/Januari/2025-01-04 - Tidak Melakukan Apa Apa.md",
+    "Year Note 2025/Month Note 2025/Januari/2025-01-08 - Sial dan Bahagia.md",
+    "Year Note 2025/Month Note 2025/Januari/2025-01-06 - Hari Pertama Productif.md",
+    "Year Note 2025/Month Note 2025/Januari/2025-01-09 - Interview PT Next TransfromTech.md",
+    "Year Note 2025/Month Note 2025/Januari/2025-01-05 - Mulai Produktif.md",
+    "Year Note 2025/Month Note 2025/Januari/2025-01-10 - Mulai pembelajaran Java.md",
+    "Year Note 2025/Month Note 2025/Januari/2025-01-07 - Masih Productiv.md",
+    "Year Note 2025/Month Note 2025/Januari",
+    "Year Note 2025/Month Note 2025",
+    "Digital/Konten/Sistem Hidup Seorang Creative Engineer.md",
+    "Digital/Konten/Abstrak Idea/Konten Idea/Detektif UX Membaca Pikiran di Balik Aplikasi.md",
+    "Digital/Konten/Abstrak Idea/Konten Idea/Geografi Internet.md",
+    "Digital/Konten/Abstrak Idea/Konten Idea/Reverse Engineering Produk Mati.md",
+    "Digital/Konten/Abstrak Idea/Konten Idea/Melihat Teknologi dari Kacamata Berbeda.md",
+    "Digital/Konten/Abstrak Idea/Konten Idea/Jelajah Sunyi Kisah dari Sudut Terlupakan Internet.md",
+    "Digital/Konten/Abstrak Idea/Konten Idea/Pahlawan Tak Terlihat.md",
+    "Digital/Konten/Abstrak Idea/Konten Idea/Di Balik Satu Klik.md",
+    "Year Note 2025/Januari/Vision Januari.canvas",
+    "Pasted image 20250126054506.png",
+    "Pasted image 20250126054020.png",
+    "Assets/Image Daily - Assets/Pasted image 20250113212222.png",
+    "Assets/Image Daily - Assets/Pasted image 20250113211807.png",
+    "Assets/Image Daily - Assets/Pasted image 20250113211722.png",
+    "Assets/Image Daily - Assets/Pasted image 20250113211636.png",
+    "Learn/Learn Technical Web/Learn Java/Java Basic/Tanpa judul.canvas",
+    "Tanpa judul.canvas",
+    "Tanpa judul 3.canvas",
+    "Tanpa judul 1.canvas",
+    "Tanpa judul 2.canvas",
+    "Wireframe App.canvas"
+  ]
+}

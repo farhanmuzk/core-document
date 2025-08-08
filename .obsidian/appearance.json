@@ -1,0 +1,11 @@
+{
+  "accentColor": "#7398d3",
+  "cssTheme": "Border",
+  "textFontFamily": "FiraCode Nerd Font Mono",
+  "theme": "obsidian",
+  "baseFontSize": 11,
+  "interfaceFontFamily": "FiraCode Nerd Font Mono",
+  "nativeMenus": false,
+  "baseFontSizeAction": false,
+  "showViewHeader": true
+}

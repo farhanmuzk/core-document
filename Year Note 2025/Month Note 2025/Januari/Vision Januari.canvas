@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"6a6379d8004036fd","type":"text","text":"# Mulai Set Up Kerja 02\n\nIngin memulai Set Up meja kerja rumah untuk kebutuhan konten dan kerja kantor atau pun Free Lance \n\nMulai untuk beli `Meja` yang lebih proper dan tentunya `Monitor`\n\n\nSetalh itu baru Keyboard, Face Cam, Kursi, Desk Mate, dan Mouse\n\n","x":1160,"y":-487,"width":260,"height":288},
+		{"id":"76e8eaadf5c2f293","type":"file","file":"Year Note 2025/Assets Note/Image Year Hope/Pasted image 20250105032745.png","x":164,"y":-818,"width":333,"height":444},
+		{"id":"51312c8fc9697e1d","type":"text","text":"# Mulai Kuliah\n\nWalaupun sebenarnya pembukaan kuliah kemungkinan belum buka bulan ini tapi ini harapan yang akan saya coba.","x":610,"y":-818,"width":280,"height":160},
+		{"id":"93f6595c441f0453","type":"file","file":"Year Note 2025/Assets Note/Image Year Hope/Pasted image 20250105032843.png","x":-520,"y":-818,"width":540,"height":720},
+		{"id":"8e9d6bc0c411cbd9","type":"file","file":"Year Note 2025/Assets Note/Image Year Hope/Pasted image 20250105030946.png","x":164,"y":-8,"width":397,"height":497},
+		{"id":"0379a7067201ef05","type":"text","text":"# Mulai Untuk Content\n\nHarapan dari kecil dan mempunyai keyakinan jika berhasil di sini akan lebih mudah untuk mewujudkan impian impian.\n\nMulai dari Konten Yotube dan sosmed lainnya dengan tema keahlian sebagai Coder terlebih dahulu.","x":-200,"y":-47,"width":240,"height":267},
+		{"id":"66d20ad7a85a63db","type":"file","file":"Year Note 2025/Assets Note/Image Year Hope/Pasted image 20250105032908.png","x":-640,"y":-52,"width":390,"height":585},
+		{"id":"349615ee48c875a7","type":"text","text":"# Liburan Keluaraga\n\nKalau udah soal ini udah paling ga bisa jelasin, intinya mau aja bikin bahagia.","x":-130,"y":266,"width":240,"height":174},
+		{"id":"4439df7c0945a21d","type":"text","text":"# Breakdown Vision January\n\nDari visi yang ingin di capai sebenarnya bertumpu di mendapatkan kerja dan menjadi seorang content creator, \ndari semua yang ingin di capai dua visi terbeut dulu yang harus di penuhi agar visi lain bisa tercapai.\n\n## How To Start It?\n\nDari belajar lebih banyak pengetahuan dan memplajari lebih dalam dasar dasar web developer dahulu pada bulan ini jangan ke yang lain dulu sebaiknya. karna dua visi ini saling berkaitan dan ketika satu visi terpai visi satu lagi setidak nya setnagh nya sudah terpenuhi. tapi lebih bagus jika mendapat kerja pasti terlebih dahulu. Mulai mempelajari bahasa lain seper JAVA, C++ dll. dan tetnu nya perdalam lagi hal lain.","x":631,"y":87,"width":474,"height":357,"color":"4"},
+		{"id":"901d1c223e031b0a","type":"file","file":"Pasted image 20250105030259.png","x":631,"y":-596,"width":454,"height":605},
+		{"id":"1e7bed96df48555b","type":"text","text":"# Awal Bulan Mulai Kerja\n\n##### Saya harap saya bisa mulai bekerja di bulan ini dengan harapan saya, walaupun tidak sesuai harapa semoga saya tetap bisa menjalanin nya. \n\n##### Harapan Bekerja sebagai Full Stack Developer dengan aturan kerja hanya beberapa hari dalam seminggu ke kantor.","x":110,"y":-319,"width":440,"height":221}
+	],
+	"edges":[
+		{"id":"07733cc6fb51cf6e","fromNode":"76e8eaadf5c2f293","fromSide":"right","toNode":"51312c8fc9697e1d","toSide":"left"},
+		{"id":"aafc607972cb6add","fromNode":"901d1c223e031b0a","fromSide":"right","toNode":"6a6379d8004036fd","toSide":"left"},
+		{"id":"5e53f1d729f4e025","fromNode":"93f6595c441f0453","fromSide":"right","toNode":"1e7bed96df48555b","toSide":"left"},
+		{"id":"18a1dd3258d0a630","fromNode":"8e9d6bc0c411cbd9","fromSide":"left","toNode":"0379a7067201ef05","toSide":"right"},
+		{"id":"674cd3bdad67ffff","fromNode":"66d20ad7a85a63db","fromSide":"right","toNode":"349615ee48c875a7","toSide":"left"}
+	]
+}
