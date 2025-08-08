@@ -1,0 +1,11 @@
+# Exclude Obsidian workspace settings
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Exclude plugin data yang mungkin sensitif (optional)
+# .obsidian/plugins/
+
+# Exclude OS files
+.trash/
+.DS_Store
+Thumbs.db

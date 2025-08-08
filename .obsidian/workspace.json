@@ -77,14 +77,14 @@
             "id": "29ae534c8d76a3a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Konten/Format Konten/Ruang Bedah Digital.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Ruang Bedah Digital"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -270,14 +270,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a8d5e39d8b30cfd",
+  "active": "29ae534c8d76a3a4",
   "lastOpenFiles": [
+    "Konten/Format Konten/Ruang Bedah Digital.md",
+    "Untitled.md",
+    "New Text Document.txt",
     "LICENSE",
     "Digital/Konten/Abstrak Idea/Project Idea/Project 03 ( Alat debugging dan pembelajaran yang kreatif ).md",
     "Digital/Konten/Tanpa judul.md",
     "Digital/Konten/Abstrak Idea/Konten Idea/Tanpa judul.md",
-    "2025-08-08.md",
-    "Konten/Format Konten/Ruang Bedah Digital.md",
+    "Year Note 2025/Daily Note 2025/2025-08-08.md",
     "Konten/Format Konten/Sang Penjaga Pustaka - The Digital Guardians Project.md",
     "Konten/Project Konten/Dotsfiles Project/Technical Project Documentation.md",
     "Konten/Format Konten/DotsFiles - Format Konten Harian.md",
@@ -304,15 +306,12 @@
     "Year Note 2025/Month Note 2025/Januari/2025-01-05 - Mulai Produktif.md",
     "Year Note 2025/Month Note 2025/Januari/2025-01-10 - Mulai pembelajaran Java.md",
     "Year Note 2025/Month Note 2025/Januari/2025-01-07 - Masih Productiv.md",
-    "Year Note 2025/Month Note 2025/Januari",
-    "Year Note 2025/Month Note 2025",
     "Digital/Konten/Sistem Hidup Seorang Creative Engineer.md",
     "Digital/Konten/Abstrak Idea/Konten Idea/Detektif UX Membaca Pikiran di Balik Aplikasi.md",
     "Digital/Konten/Abstrak Idea/Konten Idea/Geografi Internet.md",
     "Digital/Konten/Abstrak Idea/Konten Idea/Reverse Engineering Produk Mati.md",
     "Digital/Konten/Abstrak Idea/Konten Idea/Melihat Teknologi dari Kacamata Berbeda.md",
     "Digital/Konten/Abstrak Idea/Konten Idea/Jelajah Sunyi Kisah dari Sudut Terlupakan Internet.md",
-    "Digital/Konten/Abstrak Idea/Konten Idea/Pahlawan Tak Terlihat.md",
     "Year Note 2025/Januari/Vision Januari.canvas",
     "Pasted image 20250126054506.png",
     "Pasted image 20250126054020.png",
